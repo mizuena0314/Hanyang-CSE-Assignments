@@ -1,0 +1,10 @@
+Warehouse 0:(100.0, 200.0)
+  BasicCargo: 1 6 7 8 11 12 13 
+  HeavyCargo: 0 2 3 4 5 9 10 
+  DangerousCargo: 10 
+  LiquidCargo: 0 2 3 9 
+Warehouse 1:(120.6, 250.0)
+  BasicCargo: 3 4 5 
+  HeavyCargo: 0 1 2 
+  DangerousCargo: 0 
+  LiquidCargo: 1 2 

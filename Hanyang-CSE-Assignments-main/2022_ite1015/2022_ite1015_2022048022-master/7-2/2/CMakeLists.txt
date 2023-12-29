@@ -1,0 +1,6 @@
+add_executable(
+    simple_int_set
+    main.cpp
+    setfunc.h
+    setfunc.cpp
+)

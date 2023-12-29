@@ -1,0 +1,2 @@
+ordinary decimal conversion result: 178
+2's complement: -78
